@@ -183,7 +183,10 @@
           <mxGeometry x="990" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-74" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;判断手选省市区&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="315" y="625" width="130" height="80" as="geometry" />
+          <mxGeometry x="985" y="400" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kr2G2cWN-uCMmODoIxwh-75" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;通知业务线城市切换&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="635" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
