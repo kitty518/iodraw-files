@@ -124,9 +124,6 @@
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-39" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;判断手选省市区&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="305" y="615" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kr2G2cWN-uCMmODoIxwh-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kr2G2cWN-uCMmODoIxwh-40" target="Kr2G2cWN-uCMmODoIxwh-66">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-40" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;通知业务线城市切换&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="625" width="120" height="60" as="geometry" />
         </mxCell>
@@ -149,9 +146,6 @@
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-41" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;经纬度diff &amp;gt; 600m&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="305" y="750" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kr2G2cWN-uCMmODoIxwh-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kr2G2cWN-uCMmODoIxwh-42" target="Kr2G2cWN-uCMmODoIxwh-66">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-42" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;通知业务线定位更新&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="760" width="120" height="60" as="geometry" />
         </mxCell>
@@ -165,7 +159,7 @@
           <mxGeometry x="310" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-66" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;发送新城市数据及经纬度&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kr2G2cWN-uCMmODoIxwh-77" target="Kr2G2cWN-uCMmODoIxwh-79">
           <mxGeometry relative="1" as="geometry" />
