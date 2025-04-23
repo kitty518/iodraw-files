@@ -236,7 +236,7 @@
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-139" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;定位API执行&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="891" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kr2G2cWN-uCMmODoIxwh-140" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;P1等级&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Kr2G2cWN-uCMmODoIxwh-140" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;P2等级&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="921" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kr2G2cWN-uCMmODoIxwh-145" target="Kr2G2cWN-uCMmODoIxwh-147">
