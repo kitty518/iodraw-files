@@ -10,6 +10,9 @@
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-0" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;业务线调用&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Kr2G2cWN-uCMmODoIxwh-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kr2G2cWN-uCMmODoIxwh-1" target="Kr2G2cWN-uCMmODoIxwh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;定位API执行&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -26,11 +29,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Kr2G2cWN-uCMmODoIxwh-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kr2G2cWN-uCMmODoIxwh-2" target="Kr2G2cWN-uCMmODoIxwh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;获取到定位&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="300" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Kr2G2cWN-uCMmODoIxwh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kr2G2cWN-uCMmODoIxwh-3" target="Kr2G2cWN-uCMmODoIxwh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;缓存数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kr2G2cWN-uCMmODoIxwh-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kr2G2cWN-uCMmODoIxwh-7" target="Kr2G2cWN-uCMmODoIxwh-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;返回业务线定位数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="500" width="120" height="60" as="geometry" />
