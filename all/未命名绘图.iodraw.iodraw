@@ -77,9 +77,6 @@
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-33" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;发起实时定位&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kr2G2cWN-uCMmODoIxwh-36" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;逆地址解析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="585" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-39" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;判断手选省市区&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="305" y="670" width="130" height="80" as="geometry" />
         </mxCell>
