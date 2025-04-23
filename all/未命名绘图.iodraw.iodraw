@@ -71,11 +71,17 @@
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kr2G2cWN-uCMmODoIxwh-30" target="Kr2G2cWN-uCMmODoIxwh-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Kr2G2cWN-uCMmODoIxwh-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kr2G2cWN-uCMmODoIxwh-30" target="Kr2G2cWN-uCMmODoIxwh-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;是否有缓存定位&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;返回业务线空数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kr2G2cWN-uCMmODoIxwh-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kr2G2cWN-uCMmODoIxwh-32" target="Kr2G2cWN-uCMmODoIxwh-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;返回业务线缓存定位&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="410" width="120" height="60" as="geometry" />
