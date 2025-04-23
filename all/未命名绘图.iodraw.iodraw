@@ -245,9 +245,6 @@
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-96" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;判断手选省市区&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="890" y="615" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kr2G2cWN-uCMmODoIxwh-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kr2G2cWN-uCMmODoIxwh-98" target="Kr2G2cWN-uCMmODoIxwh-109">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-98" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;通知业务线城市切换&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1105" y="625" width="120" height="60" as="geometry" />
         </mxCell>
@@ -260,13 +257,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-107" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;不提示业务线刷新&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="895" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="895" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-108" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="895" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kr2G2cWN-uCMmODoIxwh-109" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;发送新城市数据及经纬度&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1275" y="695" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
