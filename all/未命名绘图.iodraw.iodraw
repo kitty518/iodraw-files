@@ -124,6 +124,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dunjUvhOc3ieO__gp6hL-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dunjUvhOc3ieO__gp6hL-33" target="dunjUvhOc3ieO__gp6hL-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dunjUvhOc3ieO__gp6hL-33" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;定位等级P0&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="1280" width="120" height="80" as="geometry" />
         </mxCell>
@@ -157,6 +160,9 @@
         <mxCell id="dunjUvhOc3ieO__gp6hL-52" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;P1、P2比较手选城市和定位城市&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dunjUvhOc3ieO__gp6hL-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dunjUvhOc3ieO__gp6hL-53" target="dunjUvhOc3ieO__gp6hL-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dunjUvhOc3ieO__gp6hL-53" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;是否有缓存&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="1390" width="120" height="80" as="geometry" />
         </mxCell>
@@ -166,8 +172,8 @@
         <mxCell id="dunjUvhOc3ieO__gp6hL-56" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;P1：回调定位更新&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="1910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dunjUvhOc3ieO__gp6hL-57" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="dunjUvhOc3ieO__gp6hL-57" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="2010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
