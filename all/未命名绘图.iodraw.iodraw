@@ -88,14 +88,6 @@
         <mxCell id="dunjUvhOc3ieO__gp6hL-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;是否成功获取地址&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="1170" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dunjUvhOc3ieO__gp6hL-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dunjUvhOc3ieO__gp6hL-17" target="dunjUvhOc3ieO__gp6hL-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dunjUvhOc3ieO__gp6hL-21" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dunjUvhOc3ieO__gp6hL-20">
-          <mxGeometry x="-0.15" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dunjUvhOc3ieO__gp6hL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dunjUvhOc3ieO__gp6hL-17" target="dunjUvhOc3ieO__gp6hL-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
