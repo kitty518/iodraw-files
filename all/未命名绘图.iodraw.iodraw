@@ -57,7 +57,10 @@
           <mxGeometry x="30" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dunjUvhOc3ieO__gp6hL-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;是否成功获取地址&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="950" width="120" height="80" as="geometry" />
+          <mxGeometry x="30" y="940" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dunjUvhOc3ieO__gp6hL-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;是否成功获取地址&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="600" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
