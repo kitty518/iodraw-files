@@ -199,7 +199,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dunjUvhOc3ieO__gp6hL-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dunjUvhOc3ieO__gp6hL-53" target="dunjUvhOc3ieO__gp6hL-57">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-50" y="1430" />
+              <mxPoint x="-50" y="1930" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dunjUvhOc3ieO__gp6hL-53" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;是否有缓存&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="1390" width="120" height="80" as="geometry" />
