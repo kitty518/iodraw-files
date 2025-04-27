@@ -160,8 +160,8 @@
         <mxCell id="dunjUvhOc3ieO__gp6hL-53" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;是否有缓存&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="1390" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dunjUvhOc3ieO__gp6hL-55" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;是否一致&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="1600" width="120" height="80" as="geometry" />
+        <mxCell id="dunjUvhOc3ieO__gp6hL-55" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;比较距离&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;diff&amp;gt;600m&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="1800" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
