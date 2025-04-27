@@ -116,10 +116,13 @@
         <mxCell id="dunjUvhOc3ieO__gp6hL-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="1030" width="20" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="dunjUvhOc3ieO__gp6hL-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dunjUvhOc3ieO__gp6hL-33" target="dunjUvhOc3ieO__gp6hL-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dunjUvhOc3ieO__gp6hL-33" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;定位等级P0&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="1160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dunjUvhOc3ieO__gp6hL-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;P3: 回调定位成功&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dunjUvhOc3ieO__gp6hL-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;P1: 回调定位成功&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-170" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
