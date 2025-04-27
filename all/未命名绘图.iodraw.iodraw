@@ -245,7 +245,7 @@
           <mxGeometry x="30" y="1930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dunjUvhOc3ieO__gp6hL-81" value="&lt;ol style=&quot;line-height: 180%;&quot;&gt;&lt;li&gt;最大请求时长&lt;/li&gt;&lt;li&gt;超时重试&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="1160" width="130" height="80" as="geometry" />
+          <mxGeometry x="170" y="1169" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
