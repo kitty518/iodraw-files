@@ -216,6 +216,11 @@
         <mxCell id="dunjUvhOc3ieO__gp6hL-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dunjUvhOc3ieO__gp6hL-55">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="1930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="1760" />
+              <mxPoint x="170" y="1865" />
+              <mxPoint x="91" y="1865" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dunjUvhOc3ieO__gp6hL-55" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;比较距离&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;diff &amp;gt; 600m&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
