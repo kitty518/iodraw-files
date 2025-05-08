@@ -257,7 +257,7 @@
           <mxGeometry x="170" y="1169" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pjZchKP4xCSysalqtEKw-0" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户发起定位&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="610" width="120" height="80" as="geometry" />
+          <mxGeometry x="30" y="570" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
