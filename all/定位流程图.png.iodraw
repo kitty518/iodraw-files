@@ -280,8 +280,8 @@
         <mxCell id="pjZchKP4xCSysalqtEKw-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;城市切换弹窗&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="1590" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pjZchKP4xCSysalqtEKw-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;城市切换弹窗&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="1600" width="120" height="80" as="geometry" />
+        <mxCell id="pjZchKP4xCSysalqtEKw-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;是否切换&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="1590" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
