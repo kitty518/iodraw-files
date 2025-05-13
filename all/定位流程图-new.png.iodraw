@@ -311,8 +311,8 @@
         <mxCell id="pjZchKP4xCSysalqtEKw-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;P1、P2：回调不切换城市&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pjZchKP4xCSysalqtEKw-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;是否成功获取地址&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="1180" width="120" height="80" as="geometry" />
+        <mxCell id="pjZchKP4xCSysalqtEKw-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;开启定位权限&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="930" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
