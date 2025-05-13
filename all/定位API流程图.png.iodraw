@@ -69,6 +69,9 @@
             <mxPoint x="220" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WOPAdB4rI6nIgaLLhGXe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WOPAdB4rI6nIgaLLhGXe-1" target="st-mXIvZS7rq8EoN64vv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WOPAdB4rI6nIgaLLhGXe-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;是否开启定位&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="120" width="120" height="80" as="geometry" />
         </mxCell>
