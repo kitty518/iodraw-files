@@ -338,6 +338,9 @@
         <mxCell id="Dc-liI-0d4TGXJjxYWoa-0" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;10min内缓存&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="300" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Dc-liI-0d4TGXJjxYWoa-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;返回业务线缓存定位&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-100" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
