@@ -47,7 +47,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pjZchKP4xCSysalqtEKw-43" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pjZchKP4xCSysalqtEKw-42">
+        <mxCell id="pjZchKP4xCSysalqtEKw-43" value="有" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pjZchKP4xCSysalqtEKw-42">
           <mxGeometry x="-0.8434" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -198,7 +198,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dunjUvhOc3ieO__gp6hL-53" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;是否有缓存&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="dunjUvhOc3ieO__gp6hL-53" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;是否有非10min&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;缓存&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="1614" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dunjUvhOc3ieO__gp6hL-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dunjUvhOc3ieO__gp6hL-55" target="dunjUvhOc3ieO__gp6hL-56" edge="1">
