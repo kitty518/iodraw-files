@@ -36,9 +36,6 @@
         <mxCell id="UBFrzltj0Om8wQNDXbC--11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;老的定位逻辑&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="453" y="135" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UBFrzltj0Om8wQNDXbC--12" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="230" width="140" height="160" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
