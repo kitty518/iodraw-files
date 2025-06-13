@@ -13,10 +13,15 @@
         <mxCell id="UBFrzltj0Om8wQNDXbC--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UBFrzltj0Om8wQNDXbC--6" target="UBFrzltj0Om8wQNDXbC--8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UBFrzltj0Om8wQNDXbC--13" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UBFrzltj0Om8wQNDXbC--2">
+          <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UBFrzltj0Om8wQNDXbC--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UBFrzltj0Om8wQNDXbC--6" target="UBFrzltj0Om8wQNDXbC--11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UBFrzltj0Om8wQNDXbC--5" value="基准组" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UBFrzltj0Om8wQNDXbC--4">
+        <mxCell id="UBFrzltj0Om8wQNDXbC--5" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UBFrzltj0Om8wQNDXbC--4">
           <mxGeometry x="-0.2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
