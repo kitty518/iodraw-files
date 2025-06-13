@@ -22,7 +22,10 @@
           <mxGeometry x="30" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qlDSqJlaUkSgzx47IUyk-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="400" width="100" height="100" as="geometry" />
+          <mxGeometry x="20" y="430" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qlDSqJlaUkSgzx47IUyk-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="435" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
