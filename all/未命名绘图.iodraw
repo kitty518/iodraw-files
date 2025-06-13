@@ -41,6 +41,9 @@
         <mxCell id="UBFrzltj0Om8wQNDXbC--14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;CMS配置保养列表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="263" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UBFrzltj0Om8wQNDXbC--17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UBFrzltj0Om8wQNDXbC--15" target="UBFrzltj0Om8wQNDXbC--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UBFrzltj0Om8wQNDXbC--15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;用户缺少特殊参数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="263" y="210" width="120" height="60" as="geometry" />
         </mxCell>
