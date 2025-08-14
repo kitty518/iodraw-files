@@ -89,7 +89,7 @@
         <mxCell id="jCUfDHJD3EG_9ttzJ6SN-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;小程序缓存添加数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="584.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCUfDHJD3EG_9ttzJ6SN-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;清除参数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jCUfDHJD3EG_9ttzJ6SN-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;清除参数&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;memoryCacheData&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="685" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
