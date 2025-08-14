@@ -10,16 +10,11 @@
         <mxCell id="iRIXptac5lbCtoh2JPO9-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iRIXptac5lbCtoh2JPO9-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iRIXptac5lbCtoh2JPO9-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iRIXptac5lbCtoh2JPO9-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;调用跳转桥&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;包含参数memoryCacheData&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qlDSqJlaUkSgzx47IUyk-0" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;中间层透传参数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="30" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jCUfDHJD3EG_9ttzJ6SN-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;小程序桥执行&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="400" width="120" height="60" as="geometry" />
