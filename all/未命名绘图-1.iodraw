@@ -83,7 +83,7 @@
         <mxCell id="jCUfDHJD3EG_9ttzJ6SN-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;小程序桥执行&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCUfDHJD3EG_9ttzJ6SN-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;小程序桥执行&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jCUfDHJD3EG_9ttzJ6SN-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;生成唯一id&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
