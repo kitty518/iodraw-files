@@ -37,7 +37,7 @@
         <mxCell id="cAcH5rziRVf6jLgr2FPy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cAcH5rziRVf6jLgr2FPy-12" target="cAcH5rziRVf6jLgr2FPy-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cAcH5rziRVf6jLgr2FPy-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;小程序缓存添加数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cAcH5rziRVf6jLgr2FPy-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cAcH5rziRVf6jLgr2FPy-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cAcH5rziRVf6jLgr2FPy-14" target="cAcH5rziRVf6jLgr2FPy-16">
