@@ -98,8 +98,8 @@
         <mxCell id="jCUfDHJD3EG_9ttzJ6SN-21" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;路由拼接参数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCUfDHJD3EG_9ttzJ6SN-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;路由拼接参数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="880" width="120" height="60" as="geometry" />
+        <mxCell id="jCUfDHJD3EG_9ttzJ6SN-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;执行跳转&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
