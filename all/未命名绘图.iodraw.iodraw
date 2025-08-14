@@ -49,7 +49,7 @@
         <mxCell id="cAcH5rziRVf6jLgr2FPy-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cAcH5rziRVf6jLgr2FPy-16" target="cAcH5rziRVf6jLgr2FPy-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cAcH5rziRVf6jLgr2FPy-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;添加参数cacheKey&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cAcH5rziRVf6jLgr2FPy-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;removeMemoryCache&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cAcH5rziRVf6jLgr2FPy-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cAcH5rziRVf6jLgr2FPy-18" target="cAcH5rziRVf6jLgr2FPy-20">
